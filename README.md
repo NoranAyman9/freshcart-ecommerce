@@ -9,7 +9,10 @@
 A modern, production-ready, full-stack E-Commerce web application built with **Next.js 16 (App Router)**, **React 19**, and **TypeScript**. Designed from Figma specifications and powered by Route Academy's robust eCommerce REST API.
 
 ---
+## 🌟 Live Demo & Preview
 
+- **Live URL**: [View on Vercel](https://ecommerce-freshcart-ivory.vercel.app/)
+---
 ## 🚀 Key Features
 
 ### 🔐 1. Authentication & Security
